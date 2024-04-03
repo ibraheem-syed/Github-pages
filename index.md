@@ -17,3 +17,5 @@ int main() {
 This site was built using [GitHub Pages](https://pages.github.com/)
 # README file
 [README file for this repository](README.md) <br>
+# Images for assignment
+![Image of assignment](screenshots/Command line.png) <br>
