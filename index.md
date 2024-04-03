@@ -3,6 +3,7 @@
 ### I'm a big UFC and NBA fan
 I transferred here from the bay area. I ~~live in Boston~~ live in the Bay Area and have spent most of my childhood there.<br>
 One of my favorite quotes is <br>
+>
 > Desires make slaves out of kings and patience makes kings out of slaves – Al-Ghazali
 > 
 Below is a hello world function in c++ <br>
